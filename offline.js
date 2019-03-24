@@ -1,10 +1,11 @@
 ﻿{
-	"version": 1553352152,
+	"version": 1553407629,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
 		"jquery-2.1.1.min.js",
 		"offlineClient.js",
+		"images/buttonplay-sheet0.png",
 		"images/map1.png",
 		"images/map2.png",
 		"images/block-sheet0.png",
@@ -15,6 +16,9 @@
 		"images/bullet-sheet0.png",
 		"images/turrenteffict-sheet0.png",
 		"images/towerred-sheet0.png",
+		"images/end_2-sheet0.png",
+		"media/shooting.m4a",
+		"media/shooting.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
